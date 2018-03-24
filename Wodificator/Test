@@ -1,0 +1,4 @@
+
+  $race_stats['Elfe Mag-Mor'] = array(
+    //'att' => array( 'melee'    =>  1 + ($niv * .2), 'distance' =>  1 + ($niv * .2), 'magie'    =>  0, 'social'   => -2 - ($niv * .25)),
+    'def' => array( 'melee'    =>  0, 'distance' =>  0, 'magie'    =>  0, 'social'   =>  0));
